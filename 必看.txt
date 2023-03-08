@@ -1,0 +1,25 @@
+Lan同学温馨提醒：资源源于网络，仅供学习交流使用
+token需要自己填，填在本地包x文件夹内的token.txt里面
+
+请注意：token需要自己填入x文件夹内的token.txt里面（不放token肯定弹窗扫码）
+
+路径写法:clan://localhost/路径文件夹/文件名.json
+
+文件介绍：
+s1.json:阿里采用普画2k，不看原画方案（目前我觉得比较稳定的）
+
+s2.json:阿里采用多线程原画方案（原画可能不快）
+
+s3.json:阿里采用新原画方案（可能会弹窗扫码）
+
+s4.json:阿里采用token+openapi双token方案（比较麻烦）
+
+短token扫码获取地址：https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
+
+长token（openapi）扫码获取：https://alist.nn.ci/zh/guide/drivers/aliyundrive_open.html
+
+
+说明：普画2k，新阿里原画，双token原画均由大佬真心真语提供jar
+     多线程阿里由小明大佬提供jar
+
+本文件仅供学习交流使用，别瞎搞
